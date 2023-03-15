@@ -7,7 +7,7 @@ hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
-hello atguigu!hello giti!
+hello atguigu!hello giti
 hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
@@ -15,13 +15,10 @@ hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
-hello atguigu!hello git!22222222222222222222222222222222222
 hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
-hello atguigu!hello git!git master
-hello atguigu!hello giti!
-hello atguigu!hello git!git branch
-2222222222222222222222222 hot-fix222
+hello atguigu!hello git!
+hello atguigu!hello git!master
